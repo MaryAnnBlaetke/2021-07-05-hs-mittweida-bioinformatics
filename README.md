@@ -3,7 +3,13 @@
 thanks for checking back. Please find all presentions and contact information in this repository.
 We would be really happy to welcome you in our teams for an internship or thesis project for #FuturePlants!
 
-
+## Schedule
+- Mary-Ann Blätke - "Bioinformatics & Computational Biology in Plant Sciences at IPK Gatersleben" [[slides]](2021-07-05-mb-industrieforum-mittweida_overview.pdf)
+- Jedrzej Szymanski - "Bioinformatics People at IPK Gatersleben" [[slides]](2021-07-05-js-industrieforum-mittweida_people.pdf)
+- Student Projects
+  - Daniel Koch (by Jedrzej Szymanski) - "Education Game on Plant Development" [[slides]](2021-07-05-dk-industrieforum-mittweida_proj.pdf)
+  - Fritz Forbang Peleke - "Deep Learning in OMICS" [[slides]](2021-07-05-fp-industrieforum-mittweida_proj.pdf)
+  - Dennis Psaroudakis - "Tomato Heatstress Phenomics and Quantitative Genetics" [[slides]](2021-07-05-dp-industrieforum-mittweida_proj.pdf)
 
 ## Bioinformatics Groups @ IPK Gatersleben [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/IPKGatersleben.svg?style=social&label=Follow%20%40IPKGatersleben)](https://twitter.com/IPKGatersleben)
 
