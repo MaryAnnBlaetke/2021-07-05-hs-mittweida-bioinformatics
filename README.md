@@ -1,9 +1,9 @@
 # Hey, Bioinformics Students!
 
 thanks for checking back. Please find all presentions and contact information in this repository.
-We would be really happy to welcome you in our teams for an internship or thesis project!
+We would be really happy to welcome you in our teams for an internship or thesis project for #FuturePlants!
 
-Help us #FuturePlants
+
 
 ## Bioinformatics Groups @ IPK Gatersleben [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/IPKGatersleben.svg?style=social&label=Follow%20%40IPKGatersleben)](https://twitter.com/IPKGatersleben)
 
